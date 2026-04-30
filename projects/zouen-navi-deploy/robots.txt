@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://zouen-navi.pages.dev/sitemap.xml
